@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Screenshot (21)](https://github.com/lubindher/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119559904/f1f7cad8-278d-426b-be71-8e0f37b41a33)
 
-### Name:
-### Register Number:
+### Name: LUBINDHER S
+### Register Number: 212222240056
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
